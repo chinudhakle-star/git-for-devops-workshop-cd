@@ -1,0 +1,30 @@
+git config --global user.email "chinudhakle@gmail.com"
+   git commit -m "adding testing files"
+   git status
+   rm testing.py
+   git status
+   git restore testing.py
+   git status
+  history
+  git adding
+  git init
+  1 try { . "c:\Users\CHINMAY\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\ter...
+   2 & C:/Users/CHINMAY/AppData/Local/Programs/Python/Python310/python.exe c:/Users/CHINMAY/OneDrive/Documents/git...
+   3 git remote set-url origin https://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github.com/chinudhakle-star/git-for...
+   4 git remote -v
+   5 git push origin master
+   6 git remote set-url origin https://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github.com/chinudhakle-star/git-for...
+   7 git push origin master
+   8 git remote set-url origin github.com...
+   9 git push origin master
+  10 git remote add origin https://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github.com/chinudhakle-star/git-for-dev...
+  11 git remote -v
+  12 git remote set-url origin https://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github.com/chinudhakle-star/git-for... 
+  13 git remote -v
+  14 git remote set-url origin https://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@github.com/chinudhakle-star/git-fo... 
+  15 git remote -v
+  16 git push origin master
+  17 git remote set-url origin https://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@github.com/chinudhakle-star/git-fo...
+  18 git remote -v
+  19 git push origin master
+  20 clear
