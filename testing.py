@@ -1,2 +1,1 @@
-print("Hello,i am firmino, 09" \
-"")
+print("Hello,i am firmino, 09")
